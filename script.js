@@ -25,7 +25,7 @@ const phrases = [
   'AI/ML Enthusiast',
   'Data Science Explorer',
   'Cybersecurity Learner',
-  'Full Stack Developer',
+  'Python Developer',
   'Problem Solver'
 ];
 
